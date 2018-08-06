@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="text_view_0">0</string>
+    <string name="btn_add">+</string>
+    <string name="btn_grow">A+</string>
+    <string name="btn_hide">Ocultar</string>
+    <string name="btn_take">-</string>
+    <string name="btn_shrink">A-</string>
+    <string name="btn_reset">Reset</string>
+</resources>
